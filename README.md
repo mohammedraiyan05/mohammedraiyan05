@@ -183,9 +183,9 @@ My projects span across **Power BI, Python, SQL, Tableau, Machine Learning, Comp
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: *([Add your LinkedIn URL](https://www.linkedin.com/in/mohammed-raiyan21/))*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/mohammed-raiyan21/)*  
 - 📧 Email: *(mohammedraiyaneajas@gmail.com)*  
-- 🌐 Portfolio: *([Add your portfolio link](https://mdraiyan.ct.ws/))*  
+- 🌐 Portfolio: *(https://mdraiyan.ct.ws/)*  
 
 ---
 
