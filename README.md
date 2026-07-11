@@ -132,7 +132,7 @@ I am passionate about turning complex, manual processes into automated, efficien
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohammedraiyan05&show_icons=true&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's GitHub Stats" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mohammedraiyan05&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's GitHub Stats" height="190px" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammedraiyan05&layout=compact&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's Top Languages" height="190px" />
 </p>
 
