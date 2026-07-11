@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090E" />
+      <stop offset="50%" stop-color="#0E111B" />
+      <stop offset="100%" stop-color="#05060A" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00D2FF" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" />
+  <rect width="100%" height="100%" fill="none" stroke="#1B2234" stroke-width="2" />
+
+  <!-- Glowing Cyber Lines (Abstract Waves) -->
+  <path d="M -50 160 C 200 80, 250 240, 500 120 C 650 60, 700 180, 900 100" fill="none" stroke="#005C8A" stroke-width="1.5" opacity="0.4" />
+  <path d="M -50 180 C 150 100, 300 280, 520 140 C 680 50, 720 220, 900 120" fill="none" stroke="#00D2FF" stroke-width="3" stroke-linecap="round" filter="url(#neon-glow)" opacity="0.8" />
+  <path d="M -50 200 C 100 120, 350 320, 540 160 C 700 60, 740 240, 900 140" fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.6" />
+  <path d="M -50 140 C 250 60, 200 200, 480 100 C 620 40, 680 140, 900 80" fill="none" stroke="#003554" stroke-width="2" opacity="0.3" />
+
+  <!-- Typography -->
+  <!-- Fonts: Outfit / Inter Style System Font -->
+  <g transform="translate(80, 90)">
+    <!-- Main Greeting -->
+    <text x="0" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Outfit', sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" letter-spacing="1">Hi, I'm <tspan fill="#FFFFFF">Raiyan</tspan></text>
+    
+    <!-- Title -->
+    <text x="0" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Outfit', sans-serif" font-size="28" font-weight="600" fill="#00D2FF" letter-spacing="1.5" filter="url(#soft-glow)">Data &amp; AI Engineer</text>
+    
+    <!-- Subtitle Tagline -->
+    <text x="0" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Outfit', sans-serif" font-size="14" font-weight="400" fill="#7F8FA4" letter-spacing="4">DATA ANALYTICS • AI ENGINEER • FULL-STACK</text>
+  </g>
+
+  <!-- Top Decorative Bar -->
+  <rect x="80" y="65" width="220" height="3" fill="#00D2FF" filter="url(#soft-glow)" rx="1.5" />
+</svg>

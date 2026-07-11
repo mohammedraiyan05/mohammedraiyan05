@@ -1,137 +1,138 @@
-```text
-      ._________________.     mohammed@raiyan ----------------------
-      |.               .|     OS: 💻 Windows 11, Android 14, Linux
-      ||   $ raiyan >  ||     Uptime: ⚡ 21 years, 8 months, 21 days
-      ||               ||     Host: 🏫 C. Abdul Hakeem College (CAHCET)
-      ||   DATA.       ||     Kernel: 🎓 Final-Year CSE Student
-      ||   ANALYTICS.  ||     IDE: 🚀 VS Code, Power BI, Google Colab
-      ||   AI & ML.    ||     --------------------------------------
-      ||_______________||     Languages.Programming: 🐍 Python, 🟨 JS, 🟦 SQL, 🐘 PHP
-      /_________________\     Languages.Data/BI: 📊 DAX, Power Query, 🌐 HTML/CSS
-     /                   \    Languages.Real: 💬 English, Tamil, Urdu
-    /_____________________\   --------------------------------------
-                              Hobbies.Data: 📉 Business Intelligence, 🧠 ML
-                              Hobbies.Software: 👤 Face Recognition, 🌐 Full-Stack
-                              Hobbies.Hardware: 🔌 IoT Projects, ⚙️ Arduino & Sensors
-                              --------------------------------------
-                              Contact ------------------------------
-                              Email: 📧 mohammedraiyaneajas@gmail.com
-                              LinkedIn: 💼 mohammed-raiyan21
-                              Portfolio: 🌐 mdraiyan.vercel.app
-                              GitHub: 💻 mohammedraiyan05
-                              --------------------------------------
-                              GitHub Stats -------------------------
-                              Repos: 📦 15 | Stars: ⭐ 0
-                              Commits: 📈 119 | Followers: 👥 0
-                              Lines of Code: 🔢 21,477 (HTML, JS, Python)
+<p align="center">
+  <img src="banner.svg" alt="Mohammed Raiyan Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-raiyan21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mdraiyan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:mohammedraiyaneajas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 🚀 About Me
+
+A final-year **Computer Science Engineering** student specializing in **Data Analytics**, **Business Intelligence (BI)**, **Process Automation**, and **AI-powered systems**. I design and build end-to-end data pipelines, automation workflows, custom dashboards, and full-stack software applications to turn raw data into actionable business insights.
+
+### ⚡ What Drives Me
+I am passionate about turning complex, manual processes into automated, efficient workflows. Whether it's designing clean Power BI dashboards, developing computer vision systems, or engineering full-stack platforms, I believe that technology should work seamlessly in the background to make operations simpler and decision-making faster.
+
+---
+
+## 📌 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Operations Performance Dashboard</h3>
+      <p><strong>Power BI Operational Analytics</strong></p>
+      <p>An interactive BI dashboard built to track task execution, SLA compliance, employee productivity, and delays in research and training environments.</p>
+      <p><strong>Key Impacts:</strong></p>
+      <ul>
+        <li>Identified operational bottlenecks and workload imbalances.</li>
+        <li>Automated SLA compliance monitoring and delay analysis.</li>
+        <li>Optimized workload distribution through data insights.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> Power BI, DAX, Power Query</p>
+      <p><a href="https://github.com/mohammedraiyan05/Operations-Performance-Efficiency-Dashboard"><strong>View Repository ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Face Recognition Attendance System</h3>
+      <p><strong>Computer Vision Automation</strong></p>
+      <p>A real-time face recognition based attendance logger featuring student image capture, local training models, and automated attendance logging with time-stamps.</p>
+      <p><strong>Key Impacts:</strong></p>
+      <ul>
+        <li>Digitalized classroom records, eliminating manual paper logging.</li>
+        <li>Enabled fast facial classification using the LBPH algorithm.</li>
+        <li>Logs attendance automatically with date, time, and photo verification.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> Python, OpenCV, Tkinter, LBPH</p>
+      <p><a href="https://github.com/mohammedraiyan05/Face-Recognition-Based-Attendance-System"><strong>View Repository ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+### 📊 Data Analytics, AI & BI
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
+
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+</p>
+
+### ⚙️ Backend, Database & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedraiyan05&show_icons=true&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's GitHub Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraiyan05&layout=compact&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's Top Languages" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedraiyan05&theme=tokyonight&border_color=00D2FF&title_color=00D2FF&icon_color=00D2FF&bg_color=0D0E15" alt="Raiyan's Commit Streak" width="100%" />
+</p>
+
+---
+
+## 🔍 Current Focus & Interests
+
+```javascript
+const raiyan = {
+  interests: ["data analytics", "machine learning", "computer vision", "full-stack development"],
+  learning: ["time-series forecasting", "n8n automation pipelines", "advanced BI modeling"],
+  hobbies: ["iot prototyping", "technical quizzes", "building side projects"]
+};
 ```
 
-# 👋 Hi, I'm Mohammed Raiyan  
+---
 
-🎓 Final-Year **Computer Science Engineering** Student  
-📊 Aspiring **Data Analyst | Data Scientist | AI Engineer | Full-Stack Developer**  
-📍 India  
+## 🏆 Beyond Code
+
+*   🔌 **IoT Prototyping**: Designing hardware-software integrations, sensor grids, and automated vehicle triggers.
+*   🎓 **Class Representation**: Coordination and leadership for the Computer Science Engineering class.
+*   📈 **Continuous Learning**: Active participant in technical quiz and project competitions (2nd place winner twice).
+*   💡 **Side Projects**: Continually implementing automated pipelines and database systems to refine skills.
 
 ---
 
-## 🚀 About Me  
+## 📫 Let's Connect
 
-I am a passionate Computer Science Engineering student with strong interests in **Data Analytics, Business Intelligence, Automation, Full-Stack Development, and AI-based systems**. I focus on designing end-to-end analytics pipelines, automation agents, and full-stack platforms that turn raw data into actionable business insights.
+<p align="center">
+  <strong>I'm always open to discussing new data pipelines, automation workflows, AI projects, or opportunities to collaborate.</strong>
+</p>
 
----
-
-## 🧠 Skills & Technologies  
-
-### 📊 Data Analytics & BI
-- **Tools**: Power BI, Tableau, Excel, n8n
-- **Techniques**: DAX, Power Query, Data Modeling, ETL Pipelines, KPI Tracking, SLA Compliance
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-
-### 💻 Programming & Full-Stack Development
-- **Languages**: Python, JavaScript, SQL, PHP, HTML/CSS
-- **Frameworks**: React.js, Node.js, Express.js
-- **Database**: MySQL
-
-### 🤖 AI, Machine Learning & Computer Vision
-- OpenCV, LBPH (Face Recognition), Image Processing
-- Time Series Forecasting, Predictive Modeling, Exploratory Data Analysis (EDA)
-
-### 🛠 Tools & Platforms
-- Git & GitHub, GitHub Actions (CI/CD), Vercel, InfinityFree, Postman, Google Colab
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-raiyan21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mohammedraiyaneajas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mdraiyan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
-
-## 📌 Featured Projects  
-
-### 📊 Data Analytics & BI Dashboards
-*   **[Operations Performance & Efficiency Dashboard](https://github.com/mohammedraiyan05/Operations-Performance-Efficiency-Dashboard)** (Power BI)
-    *   Tracks **task execution, SLA compliance, employee productivity, and delays** in a research and training environment.
-    *   Identifies operational bottlenecks and optimizes workload distribution.
-*   **[Electronic Sales Automation Pipeline](https://github.com/mohammedraiyan05/Electronic_sales_with_n8n)** (n8n, JS, LLMs)
-    *   End-to-end automated pipeline using **n8n**, JavaScript, and LLMs to compute KPIs, generate charts, create AI-driven business summaries, and deliver professional HTML reports via email.
-*   **[Hospital Emergency Room Analytics](https://github.com/mohammedraiyan05/Hospital-Emergency-Room-Analytics-Dashboard)** (Power BI)
-    *   Interactive dashboard analyzing emergency room patient flow, wait times, satisfaction scores, and demographic trends across monthly and patient-level views.
-*   **[YouTube Top Channels Engagement Dashboard](https://github.com/mohammedraiyan05/YouTube-Top-Channel-Videos-Dashboard)** (Power BI)
-    *   Advanced data modeling and DAX analysis of **155,000+ YouTube videos** to identify upload timing patterns, view counts, and engagement trends.
-*   **[Weather Analytics & Forecasting Dashboard](https://github.com/mohammedraiyan05/Weather-Prediction-Forecasting)** (Power BI & API)
-    *   Real-time dashboard using **WeatherAPI** to track 7-day weather conditions, air quality index, and rain probability in a dark-themed UI.
-*   **[Sales Performance Analytics](https://github.com/mohammedraiyan05/Sales-Performance-Analysis)** (Power BI)
-    *   E-commerce analytics dashboard evaluating category/state-wise revenue trends, product demand, and order cancellation impacts.
-*   **[Video Game Sales Dashboard](https://github.com/mohammedraiyan05/video-game-sales-dashboard)** (Tableau)
-    *   Interactive genre, platform, and publisher sales comparison showing publisher market share and time-based sales patterns.
-
-### 🤖 Computer Vision & AI / ML
-*   **[Face Recognition Based Attendance System](https://github.com/mohammedraiyan05/Face-Recognition-Based-Attendance-System)** (Python, OpenCV)
-    *   Real-time attendance platform built using **Tkinter** and the **LBPH algorithm**. Automatically captures student faces, trains local models, and logs attendance with dates and times.
-*   **[Customer Behaviour & Churn Analysis](https://github.com/mohammedraiyan05/Customer-Behaviour-Analysis)** (Python & Jupyter)
-    *   Exploratory data analysis and demographic segmentation modeling (age, income, loyalty programs, churn risk) to provide business recommendations.
-*   **[COVID-19 Trend Forecasting](https://github.com/mohammedraiyan05/COVID-19-Trend-Forecasting-Analysis)** (Python & Jupyter)
-    *   Time-series forecasting on global daily confirmed, recovered, and death metrics sourced from Johns Hopkins University.
-*   **[IBM HR Employee Attrition & Performance Analysis](https://github.com/mohammedraiyan05/IBM-HR-Analytics-Employee-Dashboard)** (Data Analytics)
-    *   Analytical review identifying key attrition drivers and performance indicators in the corporate workplace.
-
-### 🌐 Full-Stack & Automation
-*   **[Smart Personal Productivity & Expense Manager](https://github.com/mohammedraiyan05/Smart-Personal-Productivity-Expense-Manager)** (React, Node.js, MySQL)
-    *   Full-stack unified dashboard combining task lists, deadline alerts, and expense management with detailed visualization insights.
-*   **[CodSoft Web Development Projects](https://github.com/mohammedraiyan05/codsoft-web-development)** (React, Node.js, PHP, HTML/CSS)
-    *   Collection of frontend and full-stack tasks including a personal portfolio, calculator, e-commerce front, and job board app.
-
----
-
-## 🏆 Achievements  
-
-- 🥈 **2nd Place (Twice)** – IoT Project Competition  
-- 🧑‍🏫 **Class Representative** – CSE  
-- 🎓 **Class Topper** – Higher Secondary  
-- 🧠 Participant – Technical Quiz Competitions  
-
----
-
-## 📚 Currently Learning  
-
-- Advanced Data Analytics & BI Workflows  
-- Time-Series Forecasting & Deep Learning  
-- Big Data Automation Pipelines (n8n, Airflow)  
-- Cloud Computing & Serverless Deployment  
-
----
-
-## 🎯 Career Goals  
-
-- Excel as a **Data Analyst / Data Scientist / Business Intelligence Engineer**.  
-- Build scalable, automated data ingestion and analytics pipelines.  
-- Develop intelligent systems that drive data-driven decision-making.  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 **LinkedIn**: [mohammed-raiyan21](https://www.linkedin.com/in/mohammed-raiyan21/)  
-- 📧 **Email**: [mohammedraiyaneajas@gmail.com](mailto:mohammedraiyaneajas@gmail.com)  
-- 🌐 **Portfolio**: [mdraiyan.vercel.app](https://mdraiyan.vercel.app/)  
-- 💻 **GitHub**: [mohammedraiyan05](https://github.com/mohammedraiyan05)  
-
----
-
-⭐ **Thanks for visiting my GitHub profile!**  
-If you like my projects, feel free to ⭐ star my repositories and connect with me.
+⭐ **Thanks for visiting!** If you like my projects, feel free to star my repositories.
