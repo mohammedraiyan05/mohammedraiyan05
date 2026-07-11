@@ -75,7 +75,12 @@ I am passionate about turning complex, manual processes into automated, efficien
 </p>
 
 ### 📊 Data Analytics
-- Data Cleaning, Data Analysis, Statistical Analysis, Data Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Cleaning-00D2FF?style=for-the-badge" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/Data_Analysis-007ACC?style=for-the-badge" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Statistical_Analysis-FF6C37?style=for-the-badge" alt="Statistical Analysis">
+  <img src="https://img.shields.io/badge/Data_Modeling-4479A1?style=for-the-badge" alt="Data Modeling">
+</p>
 
 ### 📈 Data Visualization
 <p align="left">
@@ -114,7 +119,12 @@ I am passionate about turning complex, manual processes into automated, efficien
 </p>
 
 ### 👥 Soft Skills
-- Stakeholder Collaboration, Requirements Gathering, Data Analysis & Problem-Solving, Good Communication
+<p align="left">
+  <img src="https://img.shields.io/badge/Stakeholder_Collaboration-FF4F00?style=for-the-badge" alt="Stakeholder Collaboration">
+  <img src="https://img.shields.io/badge/Requirements_Gathering-6DA55F?style=for-the-badge" alt="Requirements Gathering">
+  <img src="https://img.shields.io/badge/Problem--Solving-E97627?style=for-the-badge" alt="Data Analysis & Problem-Solving">
+  <img src="https://img.shields.io/badge/Communication-00D2FF?style=for-the-badge" alt="Good Communication">
+</p>
 
 
 ---
