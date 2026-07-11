@@ -23,31 +23,41 @@ I am passionate about turning complex, manual processes into automated, efficien
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Operations Performance Dashboard</h3>
-      <p><strong>Power BI Operational Analytics</strong></p>
-      <p>An interactive BI dashboard built to track task execution, SLA compliance, employee productivity, and delays in research and training environments.</p>
+    <td width="33.3%" valign="top">
+      <h3>💬 AI Portfolio Assistant</h3>
+      <p><strong>Retrieval-Augmented Generation (RAG)</strong></p>
+      <p>An AI-powered portfolio assistant using RAG, LangChain, Pinecone, and Groq LLM to deliver fast, context-aware answers about my projects and skills.</p>
       <p><strong>Key Impacts:</strong></p>
       <ul>
-        <li>Identified operational bottlenecks and workload imbalances.</li>
-        <li>Automated SLA compliance monitoring and delay analysis.</li>
-        <li>Optimized workload distribution through data insights.</li>
+        <li>Fast, context-aware responses from a custom knowledge base.</li>
+        <li>Semantic search using Pinecone vector database and sentence transformers.</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Power BI, DAX, Power Query</p>
-      <p><a href="https://github.com/mohammedraiyan05/Operations-Performance-Efficiency-Dashboard"><strong>View Repository ↗</strong></a></p>
+      <p><strong>Tech Stack:</strong> React, FastAPI, LangChain, Pinecone, Groq</p>
+      <p><a href="https://mdraiyan.vercel.app/"><strong>Launch Application ↗</strong></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Face Recognition Attendance System</h3>
-      <p><strong>Computer Vision Automation</strong></p>
-      <p>A real-time face recognition based attendance logger featuring student image capture, local training models, and automated attendance logging with time-stamps.</p>
+    <td width="33.3%" valign="top">
+      <h3>🏍️ Intelligent Helmet Detection</h3>
+      <p><strong>Computer Vision &amp; IoT Control</strong></p>
+      <p>A real-time helmet detection system and automated vehicle ignition override control pipeline to enforce rider safety in smart cities.</p>
       <p><strong>Key Impacts:</strong></p>
       <ul>
-        <li>Digitalized classroom records, eliminating manual paper logging.</li>
-        <li>Enabled fast facial classification using the LBPH algorithm.</li>
-        <li>Logs attendance automatically with date, time, and photo verification.</li>
+        <li>Achieved 93% mAP using YOLOv8 trained on 5,696 images.</li>
+        <li>Automated ignition override via Arduino (UART) under 2 seconds.</li>
       </ul>
-      <p><strong>Tech Stack:</strong> Python, OpenCV, Tkinter, LBPH</p>
-      <p><a href="https://github.com/mohammedraiyan05/Face-Recognition-Based-Attendance-System"><strong>View Repository ↗</strong></a></p>
+      <p><strong>Tech Stack:</strong> Python, YOLOv8, OpenCV, Arduino, IoT</p>
+      <p><a href="https://github.com/mohammedraiyan05/INTELLIGENT-HELMET-DETECTION-WITH-AUTOMATED-VEHICLE-CONTROL-USING-COMPUTER-VISION"><strong>View Repository ↗</strong></a></p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h3>📊 Automated Sales KPI Workflow</h3>
+      <p><strong>Process Automation &amp; Agents</strong></p>
+      <p>An end-to-end automated pipeline computing sales metrics, generating charts, and emailing AI-summarized insights using n8n workflows.</p>
+      <p><strong>Key Impacts:</strong></p>
+      <ul>
+        <li>Reduced manual reporting time by 80-90% using n8n.</li>
+        <li>Established multi-stage checkpoints to guarantee 100% data integrity.</li>
+      </ul>
+      <p><strong>Tech Stack:</strong> n8n, JavaScript, QuickChart, LLMs, REST API</p>
+      <p><a href="https://github.com/mohammedraiyan05/Electronic_sales_with_n8n"><strong>View Repository ↗</strong></a></p>
     </td>
   </tr>
 </table>
