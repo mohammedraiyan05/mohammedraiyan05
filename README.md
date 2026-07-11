@@ -144,13 +144,9 @@ I am passionate about turning complex, manual processes into automated, efficien
 
 ## 🔍 Current Focus & Interests
 
-```javascript
-const raiyan = {
-  interests: ["data analytics", "machine learning", "computer vision", "full-stack development"],
-  learning: ["time-series forecasting", "n8n automation pipelines", "advanced BI modeling"],
-  hobbies: ["iot prototyping", "technical quizzes", "building side projects"]
-};
-```
+*   🧠 **Interests**: Data Analytics, Machine Learning, Computer Vision, Full-Stack Development
+*   📚 **Learning**: Time-Series Forecasting, n8n Automation Pipelines, Advanced BI Modeling
+*   ⚡ **Hobbies**: IoT Prototyping, Technical Quizzes, Building Side Projects
 
 ---
 
