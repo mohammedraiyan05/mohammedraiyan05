@@ -1,3 +1,31 @@
+```text
+                 :%**%*:.                    mohammed@raiyan ----------------------
+            :%#@@@@@@@@@@@8;                 OS: ................... Windows 11, Android 14, Linux
+           #@@@@@@@@@@@@@@@@8                Uptime: ............... 21 years, 8 months, 21 days
+           @@@@@@@@@@@@@@@@@@:               Host: ................. C. Abdul Hakeem College (CAHCET)
+           8@%;:..,:;o%&#@@@@#               Kernel: ............... Final-Year CSE Student
+           @&;:,,,.,:;*&8#@@@8               IDE: .................. VS Code, Power BI, Google Colab
+           8#;:.....,;%&8@@@@%               --------------------------------------
+           .&*%%&&o*8@@@@@@@@*               Languages.Programming:  Python, JavaScript, SQL, PHP
+           .%%&8@8*:@@&##88#@@               Languages.Data/BI: .... DAX, Power Query, HTML/CSS
+            o::::;..%&%o*%8@@@               Languages.Real: ....... English, Tamil, Urdu
+            ;o:,.:o*@#oo&#@@@;               --------------------------------------
+             &*:o*%&8@@8#@@@                 Hobbies.Data: ......... Business Intelligence, ML
+             .8%%%o%&8#@@@@*                 Hobbies.Software: ..... Face Recognition, Full-Stack
+               &&o**%8#@@@@&@;               Hobbies.Hardware: ..... IoT Projects, Arduino & Sensors
+             .,,#@@@@@@@@@*o@@#,             --------------------------------------
+        ,o&#@@@ ,%8@@@@8*:;@@@@@@@&;,        Contact ------------------------------
+  ,o&#@@@@@@@@8   ;**:  ..#@@@@@@@@@@@@8%;   Email: ................ mohammedraiyaneajas@gmail.com
+ #@@@@@@@@@@@@o ,:     . o@@@@@@@@@@@@@@@@   LinkedIn: ............. mohammed-raiyan21
+%@@@@@@@@@@@@@  .       ,@@@@@@@@@@@@@@@@@   Portfolio: ....... mdraiyan.vercel.app
+@@@@@@@@@@@@@%          8@@@@@@@@@@@@@@@@@   GitHub: ............... mohammedraiyan05
+@@@@@@@@@@@@@;         o@@@@@@@@@@@@@@@@@@   --------------------------------------
+@@@@@@@@@@@@@.        .@@@@@@@@@@@@@@@@@@@   GitHub Stats -------------------------
+@@@@@@@@@@@@#         8@@@@@@@@@@@@@@@@@@@   Repos: ................ 15 | Stars: ........... 0
+@@@@@@@@@@@@@.       *@@@@@@@@@@@@@@@@@@@@   Commits: .............. 119 | Followers: ....... 0
+@@@@@@@@@@@@@o      .@@@@@@@@@@@@@@@@@@@@@   Lines of Code: ........ 21,477 (HTML, JS, Python)
+```
+
 # 👋 Hi, I'm Mohammed Raiyan  
 
 🎓 Final-Year **Computer Science Engineering** Student  
@@ -185,7 +213,7 @@ My projects span across **Power BI, Python, SQL, Tableau, Machine Learning, Comp
 
 - 💼 LinkedIn: *(https://www.linkedin.com/in/mohammed-raiyan21/)*  
 - 📧 Email: *(mohammedraiyaneajas@gmail.com)*  
-- 🌐 Portfolio: *(https://mdraiyan.ct.ws/)*  
+- 🌐 Portfolio: *(https://mdraiyan.vercel.app/)*  
 
 ---
 
