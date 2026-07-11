@@ -1,6 +1,30 @@
-<p align="center">
-  <img src="dashboard.svg" alt="Mohammed Raiyan's Developer Dashboard" width="100%">
-</p>
+```text
+      ._________________.     mohammed@raiyan ----------------------
+      |.               .|     OS: 💻 Windows 11, Android 14, Linux
+      ||   $ raiyan >  ||     Uptime: ⚡ 21 years, 8 months, 21 days
+      ||               ||     Host: 🏫 C. Abdul Hakeem College (CAHCET)
+      ||   DATA.       ||     Kernel: 🎓 Final-Year CSE Student
+      ||   ANALYTICS.  ||     IDE: 🚀 VS Code, Power BI, Google Colab
+      ||   AI & ML.    ||     --------------------------------------
+      ||_______________||     Languages.Programming: 🐍 Python, 🟨 JS, 🟦 SQL, 🐘 PHP
+      /_________________\     Languages.Data/BI: 📊 DAX, Power Query, 🌐 HTML/CSS
+     /                   \    Languages.Real: 💬 English, Tamil, Urdu
+    /_____________________\   --------------------------------------
+                              Hobbies.Data: 📉 Business Intelligence, 🧠 ML
+                              Hobbies.Software: 👤 Face Recognition, 🌐 Full-Stack
+                              Hobbies.Hardware: 🔌 IoT Projects, ⚙️ Arduino & Sensors
+                              --------------------------------------
+                              Contact ------------------------------
+                              Email: 📧 mohammedraiyaneajas@gmail.com
+                              LinkedIn: 💼 mohammed-raiyan21
+                              Portfolio: 🌐 mdraiyan.vercel.app
+                              GitHub: 💻 mohammedraiyan05
+                              --------------------------------------
+                              GitHub Stats -------------------------
+                              Repos: 📦 15 | Stars: ⭐ 0
+                              Commits: 📈 119 | Followers: 👥 0
+                              Lines of Code: 🔢 21,477 (HTML, JS, Python)
+```
 
 # 👋 Hi, I'm Mohammed Raiyan  
 
