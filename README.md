@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Mohammed Raiyan  
 
 🎓 Final-Year **Computer Science Engineering** Student  
-📊 Aspiring **Data Analyst | Data Scientist | BI Developer | Full-Stack Developer**  
+📊 Aspiring **Data Analyst | Data Scientist | AI Engineer | Full-Stack Developer**  
 📍 India  
 
 ---
